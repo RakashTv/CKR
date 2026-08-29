@@ -1,4 +1,5 @@
-CKR v1.1 – Centrum Kontroli Rodzicielskiej
+# CKR v1.1 – Centrum Kontroli Rodzicielskiej
+
 Lokalne, bezpieczne i niezwykle lekkie narzędzie dla systemu Windows do zarządzania czasem dzieci przed komputerem.
 
 W przeciwieństwie do oficjalnych rozwiązań firmy Microsoft, CKR działa na tradycyjnych kontach lokalnych. Nie wymaga zakładania dzieciom adresów e-mail, kont online ani podpinania kart płatniczych.
