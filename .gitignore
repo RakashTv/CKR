@@ -427,3 +427,18 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# =======================================================
+# CKR PROGRAM CUSTOM RULES
+# =======================================================
+
+# Block CKR runtime trackers, startup scripts and error logs
+*.txt
+*.vbs
+*.log
+
+# Block all compiled executable files by default
+*.exe
+
+# EXCEPTION: Allow Git to track and upload ONLY the main program
+!CKR.exe
